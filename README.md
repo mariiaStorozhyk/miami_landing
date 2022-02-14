@@ -1,10 +1,11 @@
-Miami Condo Kings landing page
-[DEMO LINK](https://mariiastorozhyk.github.io/miami_landing/)
-[LAYOUT DESIGN](https://www.figma.com/file/nHz8bflIwJaWP3P99vKTH5/miami_home_new?node-id=16033%3A3)
+# Miami Condo Kings landing page
 
-Technologies used in project:
+## Links
+#### [DEMO LINK](https://mariiastorozhyk.github.io/miami_landing/)
+#### [LAYOUT DESIGN](https://www.figma.com/file/nHz8bflIwJaWP3P99vKTH5/miami_home_new?node-id=16033%3A3)
 
-HTML5
-CSS3 (SCSS)
-Figma
-BEM-methodology
+## Technologies used in project:
++ HTML5
++ (SCSS)
++ Figma
++ BEM-methodology
